@@ -10,11 +10,11 @@ http://symfony.com/doc/current/service_container.html
 >
 Create a custom Service
 >
+https://www.drupal8.ovh/en/tutoriels/249/create-a-custom-service
+>
 How to define an Event, Dispatcher and Subscriber in Drupal 8?
 >
 https://valuebound.com/resources/blog/how-to-define-an-event-dispatcher-and-subscriber-drupal-8#how-to-dispatch-the-event-in-drupal8
->
-https://www.drupal8.ovh/en/tutoriels/249/create-a-custom-service
 >
 Lesson 8.1 - Services, dependency injection, and service containers
 >
