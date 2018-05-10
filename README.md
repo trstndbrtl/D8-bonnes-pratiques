@@ -32,6 +32,24 @@ Lesson 8.4 - Conclusion and other information
 >
 https://docs.acquia.com/article/lesson-81-services-dependency-injection-and-service-containers
 >
+# **Event Subscriber**
+>
+Drupal 8 et les événements
+>
+https://www.flocondetoile.fr/blog/drupal-8-et-les-evenements
+>
+How to Register an Event Subscriber in Drupal 8
+>
+https://www.chapterthree.com/blog/how-to-register-event-subscriber-drupal8
+>
+Responding to Events in Drupal 8
+>
+https://drupalize.me/blog/201502/responding-events-drupal-8
+>
+Drupal 8: Creating and Subscribing to Events
+>
+https://x-team.com/blog/creating-and-subscribing-to-events/
+>
 # **Elements**
 >
 Lesson 9.1 - Creating Elements, Theming Elements, and Managing Front-end Libraries
