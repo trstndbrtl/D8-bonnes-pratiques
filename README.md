@@ -50,6 +50,14 @@ Drupal 8: Creating and Subscribing to Events
 >
 https://x-team.com/blog/creating-and-subscribing-to-events/
 >
+Drupal 8 Hooks and the Symfony Event Dispatcher
+>
+https://www.sitepoint.com/drupal-8-hooks-symfony-event-dispatcher/
+>
+Drupal 8: Hooks, Events, and Event Subscribers
+>
+https://www.daggerhart.com/drupal-8-hooks-events-event-subscribers/
+>
 # **Elements**
 >
 Lesson 9.1 - Creating Elements, Theming Elements, and Managing Front-end Libraries
