@@ -1,5 +1,3 @@
-# bonnes_pratiques
-
 # **Services**
 >
 Services and dependency injection in Drupal 8
